@@ -42,11 +42,11 @@
 </p>
 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyenolaphilipinc&show_icons=true&locale=en&layout=compact" alt="Oyenola-philip" /></p> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderbluck12&show_icons=true&locale=en&layout=compact" alt="Oyenola-philip" /></p> -->
 <h2> My Stats </h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oyenolaphilipinc&" alt="Oyenola-philip" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderbluck12&" alt="Oyenola-philip" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=oyenolaphilipinc&show_icons=true&hide_border=true" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=coderbluck12&show_icons=true&hide_border=true" alt="Stats" />
 
 <p> Thanks for visiting my Github Profile❤️ </p>
 
