@@ -1,5 +1,5 @@
 
-<h2>Hi 👋❤️, I'm CoderBluck A Skilled and Talented Developer</h2>
+<h2>Hi 👋❤️, I'm CoderBluck A Skilled Developer</h2>
 <p>I am a Technical and a Sweet Software Engineer, Entrepreneur. I am also open to building cool stuff with code. let's connect together to contribute our own quota to the world.</p>
 
 
