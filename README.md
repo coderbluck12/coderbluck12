@@ -7,7 +7,7 @@
 <h2>⚡️ About Me</h2>
 
 <ul>
-  <li>✨ Building Scalable and Cool Products with Code and also building my Entrepreneurship and Mentorship skills. I am cool and fun to the core 😎</li>
+  <li>✨ Building Scalable and Cool Products with Code and also building my Entrepreneurship and Mentorship skills. I am cool and smart to the core 😎</li>
   <li>👨‍💻 I am familiar with <strong>Javascript, Artificial Intelligence, ReactJS & NextJS & currently open sourcing</strong>.</li>
   <li>🔭 I’m learning <strong>AI and Blockchain</strong>. </li>
   <li>💬 Ping me about anything <strong>on tech and Computer Science with coding in general</strong>.</li>
