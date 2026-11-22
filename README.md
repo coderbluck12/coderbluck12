@@ -10,7 +10,7 @@
   <li>✨ Building Scalable and Cool Products with Code and also building my Entrepreneurship and Mentorship skills. I am cool and smart to the core 😎</li>
   <li>👨‍💻 I am familiar with <strong>Javascript, Typescript, Artificial Intelligence, ReactJS & NextJS & currently open sourcing</strong>.</li>
   <li>🔭 I’m learning <strong>AI and Blockchain</strong>. </li>
-  <li>💬 Ping me about anything <strong>on tech and Computer Science with coding in general</strong>.</li>
+  <li>💬 Ping me about anything <strong>on tech, Computer Science and coding in general</strong>.</li>
 <li>🎉 Fun Fact : I share tech content on Twitter & Linkedin and I love tech more. stay tuned for more on tech shit</li>
   <li>👨‍💻 I am learning Blockchain from Alchemy University and I am in a big phase of Blockchain. Love Netflix at my free time.</li>
 </ul>
